@@ -1,0 +1,5 @@
+functions-framework==3.*
+pandas
+pyarrow
+requests
+google-cloud-storage

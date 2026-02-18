@@ -1,0 +1,7 @@
+functions-framework==3.*
+pandas
+google-cloud-bigquery
+pyarrow
+gcsfs
+db-dtypes
+google-cloud-storage
